@@ -1,6 +1,6 @@
 ---
-title: "Netlify config file"
-date: 2019-04-11
+title: "测试"
+date: 2019-05-11
 type: page
 outputs:
   - netlifyyaml
